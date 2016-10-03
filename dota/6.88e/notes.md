@@ -118,30 +118,30 @@
 
 
 
-[Arc Warden]:          http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_sb.png
-[Axe]:                 http://cdn.dota2.com/apps/dota2/images/heroes/axe_sb.png
-[Batrider]:            http://cdn.dota2.com/apps/dota2/images/heroes/batrider_sb.png
-[Bounty Hunter]:       http://cdn.dota2.com/apps/dota2/images/heroes/bounty_hunter_sb.png
-[Drow Ranger]:         http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_sb.png
-[Elder Titan]:         http://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_sb.png
-[Faceless Void]:       http://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_sb.png
-[Huskar]:              http://cdn.dota2.com/apps/dota2/images/heroes/huskar_sb.png
-[IO]:                  http://cdn.dota2.com/apps/dota2/images/heroes/wisp_sb.png
-[Juggernaut]:          http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_sb.png
-[Keeper of the Light]: http://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_sb.png
-[Kunkka]:              http://cdn.dota2.com/apps/dota2/images/heroes/kunkka_sb.png
-[Mirana]:              http://cdn.dota2.com/apps/dota2/images/heroes/mirana_sb.png
-[Morphling]:           http://cdn.dota2.com/apps/dota2/images/heroes/morphling_sb.png
-[Omniknight]:          http://cdn.dota2.com/apps/dota2/images/heroes/omniknight_sb.png
-[Oracle]:              http://cdn.dota2.com/apps/dota2/images/heroes/oracle_sb.png
-[Outworld Devourer]:   http://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_sb.png
-[Phantom Assassin]:    http://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_sb.png
-[Riki]:                http://cdn.dota2.com/apps/dota2/images/heroes/riki_sb.png
-[Sand King]:           http://cdn.dota2.com/apps/dota2/images/heroes/sand_king_sb.png
-[Shadow Demon]:        http://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_sb.png
-[Timbersaw]:           http://cdn.dota2.com/apps/dota2/images/heroes/shredder_sb.png
+[Arc Warden]:          https://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_sb.png
+[Axe]:                 https://cdn.dota2.com/apps/dota2/images/heroes/axe_sb.png
+[Batrider]:            https://cdn.dota2.com/apps/dota2/images/heroes/batrider_sb.png
+[Bounty Hunter]:       https://cdn.dota2.com/apps/dota2/images/heroes/bounty_hunter_sb.png
+[Drow Ranger]:         https://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_sb.png
+[Elder Titan]:         https://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_sb.png
+[Faceless Void]:       https://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_sb.png
+[Huskar]:              https://cdn.dota2.com/apps/dota2/images/heroes/huskar_sb.png
+[IO]:                  https://cdn.dota2.com/apps/dota2/images/heroes/wisp_sb.png
+[Juggernaut]:          https://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_sb.png
+[Keeper of the Light]: https://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_sb.png
+[Kunkka]:              https://cdn.dota2.com/apps/dota2/images/heroes/kunkka_sb.png
+[Mirana]:              https://cdn.dota2.com/apps/dota2/images/heroes/mirana_sb.png
+[Morphling]:           https://cdn.dota2.com/apps/dota2/images/heroes/morphling_sb.png
+[Omniknight]:          https://cdn.dota2.com/apps/dota2/images/heroes/omniknight_sb.png
+[Oracle]:              https://cdn.dota2.com/apps/dota2/images/heroes/oracle_sb.png
+[Outworld Devourer]:   https://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_sb.png
+[Phantom Assassin]:    https://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_sb.png
+[Riki]:                https://cdn.dota2.com/apps/dota2/images/heroes/riki_sb.png
+[Sand King]:           https://cdn.dota2.com/apps/dota2/images/heroes/sand_king_sb.png
+[Shadow Demon]:        https://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_sb.png
+[Timbersaw]:           https://cdn.dota2.com/apps/dota2/images/heroes/shredder_sb.png
 
 
-[Diffusal Blade]:      http://cdn.dota2.com/apps/dota2/images/items/diffusal_blade_lg.png
-[Dragon Lance]:        http://cdn.dota2.com/apps/dota2/images/items/dragon_lance_lg.png
-[Infused Raindrop]:    http://cdn.dota2.com/apps/dota2/images/items/infused_raindrop_lg.png
+[Diffusal Blade]:      https://cdn.dota2.com/apps/dota2/images/items/diffusal_blade_lg.png
+[Dragon Lance]:        https://cdn.dota2.com/apps/dota2/images/items/dragon_lance_lg.png
+[Infused Raindrop]:    https://cdn.dota2.com/apps/dota2/images/items/infused_raindrop_lg.png
