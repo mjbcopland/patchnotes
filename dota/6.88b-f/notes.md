@@ -268,6 +268,7 @@
 [Oracle]:              http://cdn.dota2.com/apps/dota2/images/heroes/oracle_sb.png
 [Outworld Devourer]:   http://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_sb.png
 [Phantom Assassin]:    http://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_sb.png
+[Pudge]:               http://cdn.dota2.com/apps/dota2/images/heroes/pudge_sb.png
 [Riki]:                http://cdn.dota2.com/apps/dota2/images/heroes/riki_sb.png
 [Sand King]:           http://cdn.dota2.com/apps/dota2/images/heroes/sand_king_sb.png
 [Shadow Demon]:        http://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_sb.png
